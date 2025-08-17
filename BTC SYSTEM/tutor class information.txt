@@ -1,0 +1,8 @@
+er,Level4,ENG,Mon 11:00am
+qw,Level4,SEJ,Wed 4:00pm
+hr,Level4,ENG,Tue 11:00am
+qw,Level1,MT,Thur 8:45pm
+er,Level1,ENG,Mon 1:00pm
+ttt,Level3,MT,Wed 9:00am
+tien,Level1,SN,Tue 9:15pm
+tien,Level3,MT,Fri 11:00am
